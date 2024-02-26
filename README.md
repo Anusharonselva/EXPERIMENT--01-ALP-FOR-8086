@@ -87,8 +87,8 @@ hlt
 
 
 ## Output  
+![Screenshot (387)](https://github.com/Anusharonselva/EXPERIMENT--01-ALP-FOR-8086/assets/119405600/e6949a32-77bb-45a8-bc27-d291bea005bc)
 
-![Uploading Screenshot (387).png…]()
 
  
 ## Subtraction   of 8 bit numbers  ALP 
@@ -101,6 +101,7 @@ hlt
  
 ## Output  
 
+![Screenshot (388)](https://github.com/Anusharonselva/EXPERIMENT--01-ALP-FOR-8086/assets/119405600/ac7f1f29-3d2f-467e-b2ae-2d388bdb2b52)
 
 ## Multiplication alp 
 ```
@@ -111,6 +112,7 @@ hlt
 ```
  ## Output  
 
+![Screenshot (390)](https://github.com/Anusharonselva/EXPERIMENT--01-ALP-FOR-8086/assets/119405600/f82a0040-fb58-4763-815a-fd47a985fbc8)
 
 ## Division alp 
 ```
@@ -120,6 +122,7 @@ mul bl
 hlt
 ```
 ## Output  
+![Screenshot (391)](https://github.com/Anusharonselva/EXPERIMENT--01-ALP-FOR-8086/assets/119405600/b9b61253-412e-44b7-8023-68030340a15d)
 
 
 ## Result :
